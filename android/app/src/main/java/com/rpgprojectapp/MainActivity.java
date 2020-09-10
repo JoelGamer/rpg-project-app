@@ -1,4 +1,4 @@
-package com.rpg_project_app;
+package com.rpgprojectapp;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "rpg_project_app";
+    return "rpg-project-app";
   }
 }
